@@ -40,5 +40,5 @@ GoIT, Python Data Science, Homework number 1.
 1. Створіть вектор розміром 4, заповніть його випадковими цілими числами в діапазоні від 1 до 50 та знайдіть вектор з квадратними коренями цих чисел.
 
 ## Виконання 
-### Colab Jupiter
+### Google Colab (Jupyter Nootebook)
 [Hw1.ipynb](Hw1.ipynb)
