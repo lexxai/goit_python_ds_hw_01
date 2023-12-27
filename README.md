@@ -1,4 +1,4 @@
-# goit_python_ds_hw_01
+# Модуль 1. Знайомство з Data Science
 GoIT, Python Data Science, Homework number 1.
 
 ## Домашнє завдання
