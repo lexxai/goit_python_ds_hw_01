@@ -42,3 +42,6 @@ GoIT, Python Data Science, Homework number 1.
 ## Виконання 
 ### Google Colab (Jupyter Nootebook)
 [Hw1.ipynb](Hw1.ipynb)
+
+![image](https://github.com/lexxai/goit_python_ds_hw_01/assets/3278842/ea93d852-b2af-4821-8317-7088216586a0)
+
