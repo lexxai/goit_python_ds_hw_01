@@ -1,7 +1,7 @@
 # Модуль 1. Знайомство з Data Science
 GoIT, Python Data Science, Homework number 1.
 
-*З циклу [домашніх завдвнь Python Data Science](https://github.com/lexxai/goit_python_data_sciense_homework).*
+*З циклу [домашніх завдань Python Data Science](https://github.com/lexxai/goit_python_data_sciense_homework).*
 
 ## Домашнє завдання
 
