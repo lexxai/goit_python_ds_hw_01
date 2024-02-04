@@ -1,6 +1,8 @@
 # Модуль 1. Знайомство з Data Science
 GoIT, Python Data Science, Homework number 1.
 
+*З циклу [домшніх завдвнь Python Data Science](https://github.com/lexxai/goit_python_data_sciense_homework).*
+
 ## Домашнє завдання
 
 1. Створіть одновимірний масив (вектор) з першими 10-ма натуральними числами та виведіть його значення.
